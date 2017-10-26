@@ -9,9 +9,12 @@
   "engines": {
     "atom": ">=1.21.0"
   },
+  "scripts": {
+    "postinstall": "npm install patch/atom-languageclient-0.6.5.tgz"
+  },
   "dependencies": {
     "@salesforce/salesforcedx-visualforce-language-server": "41.4.0",
-    "atom-languageclient": "0.6.4",
+    "atom-languageclient": "0.6.5",
     "typescript": "2.4.0"
   },
   "devDependencies": {
