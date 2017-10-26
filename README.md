@@ -6,6 +6,8 @@ This contains an Atom package for working with [Atom IDE](https://ide.atom.io/) 
 Demo
 ===
 
+![Demonstration of working features](https://github.com/vazexqi/atom-ide-apex/raw/master/screenshots/atom-ide-visualforce-demo.gif "Demonstration of working features")
+
 Disclaimer
 ===
 
